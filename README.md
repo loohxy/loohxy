@@ -17,9 +17,12 @@
 
 <br>
 
-### Hi👋, I'm Lorena
+### Hi👋, I'm Lorena 
+<p align="left">
+<img width= 150px src="https://github.com/loohxy/loohxy/assets/157033794/cc7e4a85-d2ab-4aaa-b9c0-d8379064321d" alt="Imagem">
+
 <p>
--📚 I am a Systems Analysis and Development student
+-📚 I am a Systems Analysis and Development student          
 
 
 -👩‍💻 I am looking for my first job opportunity.
@@ -74,11 +77,6 @@ I am also interested in learning new languages ​​and enriching my inner cult
 ## Some Challenges of the DIO Project
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Loohxy&repo=dio-lab-open-source&bg_color=122936&border_color=FFF&show_icons=true&icon_color=0567ec&title_color=DA70D6&text_color=00FA9A)](https://github.com/Loohxy/)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Loohxy&repo=Curriculo&bg_color=122936&border_color=FFF&show_icons=true&icon_color=0567ec&title_color=DA70D6&text_color=00FA9A&)](https://github.com/Loohxy/Curriculo)
-
-
-
-
-
 
 
 

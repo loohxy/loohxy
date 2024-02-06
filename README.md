@@ -45,10 +45,10 @@ I am also interested in learning new languages ​​and enriching my inner cult
 
 
 <!-- Portfolio -->
-## Portifólio:
-- [Conhecendo Funções JavaScript](https://www.dio.me/certificate/6UMFH2ES)
-- [Introdução a Criação de Websites com HTML5 e CSS3](https://www.dio.me/certificate/DA22B7A5)
-- [Versionamento de Código com Git e GitHub](https://www.dio.me/certificate/C2B96E6A)
+## Portfolio:
+- [Knowing JavaScript Functions](https://www.dio.me/certificate/6UMFH2ES)
+- [Introduction to Creating Websites with HTML5 and CSS3](https://www.dio.me/certificate/DA22B7A5)
+- [Code Versioning with Git and GitHub](https://www.dio.me/certificate/C2B96E6A)
 
 
 
@@ -71,7 +71,7 @@ I am also interested in learning new languages ​​and enriching my inner cult
 ![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## Alguns Desafios de Projeto DIO
+## Some Challenges of the DIO Project
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Loohxy&repo=dio-lab-open-source&bg_color=122936&border_color=FFF&show_icons=true&icon_color=0567ec&title_color=DA70D6&text_color=00FA9A)](https://github.com/Loohxy/)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Loohxy&repo=Curriculo&bg_color=122936&border_color=FFF&show_icons=true&icon_color=0567ec&title_color=DA70D6&text_color=00FA9A&)](https://github.com/Loohxy/Curriculo)
 

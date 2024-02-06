@@ -45,10 +45,12 @@ I am also interested in learning new languages ​​and enriching my inner cult
 
 
 <!-- Portfolio -->
-## Projetos:
--
--
--
+## Portifólio:
+- [Conhecendo Funções JavaScript](https://www.dio.me/certificate/6UMFH2ES)
+- [Introdução a Criação de Websites com HTML5 e CSS3](https://www.dio.me/certificate/DA22B7A5)
+- [Versionamento de Código com Git e GitHub](https://www.dio.me/certificate/C2B96E6A)
+
+
 
 
 <!-- GIF -->

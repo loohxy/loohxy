@@ -9,18 +9,11 @@
     <summary><h1 style="display: inline-block">Hello World</h1></summary>
 </div>
 
-<!--- snake --->
-<div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-    <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake">
-  </a>
-</div
-
 <br>
 
-### Hi👋, I'm Lorena 
+### ⭐ console.log("Lorena Here!"); ⭐
 <p align="left">
-
+<img width="150px" src="https://github.com/loohxy/loohxy/blob/main/octocat-me.png?raw=true" alt="Meu Octocat">
 
 <p>
 -📚 I am a Systems Analysis and Development student          
@@ -45,7 +38,7 @@ I am also interested in learning new languages ​​and enriching my inner cult
 
 
 <!-- GithubStats -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Loohxy&theme=cobalt&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Loohxy&theme=shades-of-purple&show_icons=true)
 
 
 
@@ -70,10 +63,9 @@ I am also interested in learning new languages ​​and enriching my inner cult
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
 
 ## Some Challenges of the DIO Project
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Loohxy&repo=Detona-Ralph-Game&bg_color=122936&border_color=FFF&show_icons=true&icon_color=0567ec&title_color=DA70D6&text_color=00FA9A)](https://github.com/loohxy/Detona-Ralph-Game.git)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Loohxy&theme=shades-of-purple&show&repo=Detona-Ralph-Game&bg_icons=true&icon_)](https://github.com/loohxy/Detona-Ralph-Game.git)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Loohxy&repo=angular-blog&bg_color=122936&border_color=FFF&show_icons=true&icon_color=0567ec&title_color=DA70D6&text_color=00FA9A&)](https://github.com/loohxy/angular-blog)
-
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Loohxy&theme=shades-of-purple&show&repo=angular-blog&bg_icons=true&icon)](https://github.com/loohxy/angular-blog)
 
 
 

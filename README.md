@@ -13,7 +13,7 @@
 
 ### ⭐ console.log("Lorena Here!"); ⭐
 <p align="left">
-<img width="150px" src="https://github.com/loohxy/loohxy/blob/main/octocat-me.png?raw=true" alt="Meu Octocat">
+<img width="300px" height="300px" src="https://github.com/loohxy/loohxy/blob/main/me-octocat.png?raw=true" alt="Meu Octocat">
 
 <p>
 -📚 I am a Systems Analysis and Development student          
@@ -38,7 +38,7 @@ I am also interested in learning new languages ​​and enriching my inner cult
 
 
 <!-- GithubStats -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Loohxy&theme=shades-of-purple&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Loohxy&theme=ocean_dark&show_icons=true)
 
 
 
@@ -63,9 +63,9 @@ I am also interested in learning new languages ​​and enriching my inner cult
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
 
 ## Some Challenges of the DIO Project
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Loohxy&theme=shades-of-purple&show&repo=Detona-Ralph-Game&bg_icons=true&icon_)](https://github.com/loohxy/Detona-Ralph-Game.git)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Loohxy&theme=ocean_dark&show&repo=Detona-Ralph-Game&bg_icons=true&icon_)](https://github.com/loohxy/Detona-Ralph-Game.git)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Loohxy&theme=shades-of-purple&show&repo=angular-blog&bg_icons=true&icon)](https://github.com/loohxy/angular-blog)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Loohxy&theme=ocean_dark&show&repo=angular-blog&bg_icons=true&icon)](https://github.com/loohxy/angular-blog)
 
 
 

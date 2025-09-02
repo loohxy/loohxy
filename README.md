@@ -6,25 +6,29 @@
 <!--título-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World</h1></summary>
+    <summary><h1 style="display: inline-block">🌟Hello World🌟</h1></summary>
 </div>
 
+
+<!-- Gif Gojo-->
+
+ <p align="center">    
+<img src="https://www.icegif.com/wp-content/uploads/icegif-3544.gif" alt="Gif Anime" >
+ </p> 
 <br>
 
-### ⭐ console.log("Lorena Here!"); ⭐
-<p align="left">
-<img width="300px" height="300px" src="https://github.com/loohxy/loohxy/blob/main/me-octocat.png?raw=true" alt="Meu Octocat">
-
-<p>
--📚 I am a Systems Analysis and Development student          
+<div align="center"> 
 
 
--👩‍💻 I am looking for my first job opportunity.
+-📘 I am a Systems Analysis and Development student          
+
+
+-💻 I am looking for my first job opportunity.
 
 
 <!-- Dropdown -->
 <details>
-  <summary>✨ More about me✨</summary>
+  <summary>🌟More about me🌟</summary>
 
   I'm 23 years old. Passionate about technology and creating solutions that connect people. As a Systems Analysis and Development student, I'm always looking to learn something new and transform ideas into digital experiences. I believe that technology is made to improve lives, and I want to be a part of that!
 
@@ -40,14 +44,23 @@ I am also interested in learning new languages ​​and enriching my inner cult
 <!-- GithubStats -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Loohxy&theme=ocean_dark&show_icons=true)
 
+<!-- GIF Animação -->
+
+   <img align="https://i.pinimg.com/originals/57/f8/8e/57f88e49872cb11e9fe4b0cad4669881.gif" alt="Imagem">
 
 
-<!-- GIF -->
 
-<p align="left">
+<!--
+<p align="right">
+<img width="300px" height="300px" src="https://github.com/loohxy/loohxy/blob/main/me-octocat.png?raw=true" alt="Meu Octocat">
+<p>
+-->
+
+<!-- GIF Pokemon -->
+<!--
    <img align="center" width= 750px src="https://github.com/loohxy/loohxy/assets/157033794/64371404-fa95-4003-827a-cacd7cb8b18d" alt="Imagem">
-  </p>
-
+ -->
+</div>
 
 
 ## 🔥 Skills
@@ -62,8 +75,11 @@ I am also interested in learning new languages ​​and enriching my inner cult
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
 
+
+
 ## Some Challenges of the DIO Project
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Loohxy&theme=ocean_dark&show&repo=Detona-Ralph-Game&bg_icons=true&icon_)](https://github.com/loohxy/Detona-Ralph-Game.git)
+
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Loohxy&theme=ocean_dark&show&repo=angular-blog&bg_icons=true&icon)](https://github.com/loohxy/angular-blog)
 

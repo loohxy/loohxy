@@ -10,10 +10,10 @@
 </div>
 
 
-<!-- Gif Gojo-->
+<!-- Gif Anime-->
 
  <p align="center">    
-<img src="https://www.icegif.com/wp-content/uploads/icegif-3544.gif" alt="Gif Anime" >
+<img src="https://i.pinimg.com/originals/44/e1/52/44e152a6334b2ad5bffdcc3c469a6005.gif" alt="Gif Anime" >
  </p> 
 <br>
 
@@ -46,7 +46,6 @@ I am also interested in learning new languages ​​and enriching my inner cult
 
 <!-- GIF Animação -->
 
-   <img align="https://i.pinimg.com/originals/57/f8/8e/57f88e49872cb11e9fe4b0cad4669881.gif" alt="Imagem">
 
 
 
@@ -58,7 +57,7 @@ I am also interested in learning new languages ​​and enriching my inner cult
 
 <!-- GIF Pokemon -->
 <!--
-   <img align="center" width= 750px src="https://github.com/loohxy/loohxy/assets/157033794/64371404-fa95-4003-827a-cacd7cb8b18d" alt="Imagem">
+   <img width= 750px src="https://github.com/loohxy/loohxy/assets/157033794/64371404-fa95-4003-827a-cacd7cb8b18d" alt="Imagem">
  -->
 </div>
 
@@ -75,7 +74,9 @@ I am also interested in learning new languages ​​and enriching my inner cult
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
 
-
+<p align="center"> 
+   <img src="https://i.pinimg.com/originals/19/b2/8c/19b28c8372aaec65623f7ee7332e74be.gif" alt="Imagem" width="850">
+</p>
 
 ## Some Challenges of the DIO Project
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Loohxy&theme=ocean_dark&show&repo=Detona-Ralph-Game&bg_icons=true&icon_)](https://github.com/loohxy/Detona-Ralph-Game.git)

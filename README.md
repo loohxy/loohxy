@@ -27,7 +27,7 @@
 <div align="center">    
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight800=&size=27&pause=1000&color=88F704FF&center=true&vCenter=true&width=600&lines=AWS+Certified+Cloud+Practitioner;Cloud+Computing+%7C+DevOps;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight800=&size=27&pause=1000&color=13F5FBFF&center=true&vCenter=true&width=600&lines=AWS+Certified+Cloud+Practitioner;Cloud+Computing+%7C+DevOps;" alt="Typing SVG" />
   </a>
   <br>
 

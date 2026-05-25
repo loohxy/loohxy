@@ -6,7 +6,7 @@
 <div align="center">    
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight800=&size=27&pause=1000&color=88F704FF&center=true&vCenter=true&width=600&lines=Hello+World;By+Lorena+Carvalho" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight800=&size=27&pause=1000&color=88F704FF&center=true&vCenter=true&width=600&lines=Hello+World;" alt="Typing SVG" />
   </a>
 
 <!--título-->
@@ -27,7 +27,7 @@
 <div align="center">    
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight800=&size=27&pause=1000&color=88F704FF&center=true&vCenter=true&width=600&lines=AWS+Certified+Cloud+Practitioner;Cloud+Computing+%7C+DevOps;Python+%7C+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight800=&size=27&pause=1000&color=88F704FF&center=true&vCenter=true&width=600&lines=AWS+Certified+Cloud+Practitioner;Cloud+Computing+%7C+DevOps;" alt="Typing SVG" />
   </a>
   <br>
 
@@ -111,10 +111,8 @@ Atualmente certificada em **AWS Cloud Practitioner**, sigo aprofundando meus con
   
 
   <img src="https://i.pinimg.com/originals/13/48/b4/1348b4ba98a87cb78a32386dce1cd74b.gif" alt="imagem" width="300">
-  
-  
-  <img src="https://i.pinimg.com/originals/13/48/b4/1348b4ba98a87cb78a32386dce1cd74b.gif" alt="imagem" width="300">
   </p>
+  
 </div>
 <!-- Gif IMG -->
 <!--<p align="center"> 
